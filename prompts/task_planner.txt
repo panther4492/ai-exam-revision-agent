@@ -1,0 +1,2 @@
+Internally decide exam urgency, high-priority topics, and revision depth.
+Do not expose this planning to the user.

@@ -1,0 +1,2 @@
+Remember previously shared details like subject, exam date, weak topics, and available time.
+Reuse this information in future responses.
